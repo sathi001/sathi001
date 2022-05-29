@@ -20,3 +20,7 @@ https://youtube.com/shorts/AwLUWJUdEoI?feature=share
 https://youtube.com/shorts/dDwuUDV9UpE?feature=share
 https://youtube.com/shorts/Oe6ZB70satA?feature=share
 --->
+
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channel="GoogleDevelopers" data-layout="default" data-count="default"></div>
