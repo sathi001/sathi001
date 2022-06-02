@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding...
 - 🌱 I’m currently learning photoshop...
 - 💞️ I’m looking to collaborate on active repositries...
-- 📫 How to reach me dm me  @sathi...
+- 📫 How to reach me dm me  @findingsouls...
 
 <!---
 sathi001/sathi001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +21,4 @@ https://youtube.com/shorts/dDwuUDV9UpE?feature=share
 https://youtube.com/shorts/Oe6ZB70satA?feature=share
 --->
 
-<script src="https://apis.google.com/js/platform.js"></script>
-
-<div class="g-ytsubscribe" data-channel="GoogleDevelopers" data-layout="default" data-count="default"></div>
+- [findingsouls|(https://findingsouls.quora.com/As-we-walk-along-the-way?ch=10&oid=70770631&share=131fbe0b&srid=uYqnwx&target_type=post)]
