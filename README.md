@@ -22,3 +22,4 @@ https://youtube.com/shorts/Oe6ZB70satA?feature=share
 --->
 
 - [findingsouls](https://findingsouls.quora.com/As-we-walk-along-the-way?ch=10&oid=70770631&share=131fbe0b&srid=uYqnwx&target_type=post)
+- [Panch-karma](https://www.quora.com/profile/FindingSoul-1/For-those-who-want-to-go-deeply-into-yogic-and-Ayurvedic-cleansing-techniques-Pancha-karma-is-an-important-practice-to?ch=10&oid=70835851&share=ec02db6a&srid=uYqnwx&target_type=post )
