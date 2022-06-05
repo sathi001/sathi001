@@ -29,3 +29,4 @@ https://youtube.com/shorts/Oe6ZB70satA?feature=share
 - [Triangle pose](https://www.quora.com/profile/FindingSoul-1/TRIKON-ASAN?ch=10&oid=71012450&share=1c17c19e&srid=uYqnwx&target_type=post)
 - [hero-pose](https://www.quora.com/profile/FindingSoul-1/Hero-pose?ch=10&oid=71011932&share=4c157099&srid=uYqnwx&target_type=post)
 - [scolorships uk](https://www.coventry.ac.uk/international-students-hub/campaigns/india-awareness-page/?utm_source=quora&utm_medium=image-ad&utm_campaign=cu-mea-int-202122-ph2-t26354&utm_content=quora-image-v2)
+- [mutual funds ](https://findingsouls.quora.com/https-mudrex-onelink-me-RglH-mx2ni1gk-you-can-also-use-my-gift-voucher-M3983LLA-while-signing-up?ch=10&oid=71048024&share=bb3d56e2&srid=uYqnwx&target_type=post)
