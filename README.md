@@ -9,7 +9,8 @@
 sathi001/sathi001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4116111877235940"
+     crossorigin="anonymous"></script>
 <!---
 [https://studio.youtube.com/channel/UCBWeKrhS0csroxUyPW8bqhg/videos]
 (https://www.youtube.com/channel/UCBWeKrhS0csroxUyPW8bqhg/about)
